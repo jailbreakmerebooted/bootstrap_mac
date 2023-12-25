@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "zstd",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/facebook/zstd.git",
+      "state" : {
+        "branch" : "dev",
+        "revision" : "7cf62bc274105f5332bf2d28c57cb6e5669da4d8"
+      }
+    }
+  ],
+  "version" : 2
+}
